@@ -1,3 +1,6 @@
+_This is a legacy project.
+Development has been moved to a new repository: https://github.com/ivpn/desktop-app_
+
 # IVPN Client UI
 
 **IVPN Client UI** is a multi-platform UI for IVPN Client Desktop ([ivpn-desktop-daemon](https://github.com/ivpn/desktop-app-daemon)) built using [Electron](https://www.electronjs.org/) (supported platforms: macOS, Linux, Windows).
